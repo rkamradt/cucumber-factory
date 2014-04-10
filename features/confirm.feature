@@ -1,4 +1,4 @@
-Feature: A supervisor, or company's disignated confirmation person must confirm that a new user represents the company in the role they specified.
+Feature: A supervisor, or company's designated confirmation person must confirm that a new user represents the company in the role they specified.
 
 
    Background:
