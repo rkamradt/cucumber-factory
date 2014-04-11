@@ -71,6 +71,3 @@ Then /^be navigated back to the sign in screen$/ do
   pending # express the regexp above with the code you wish you had
 end
 
-Given /^the email is in a valid format name@domain$/ do
-  pending # express the regexp above with the code you wish you had
-end
